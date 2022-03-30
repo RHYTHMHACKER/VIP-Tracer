@@ -16,7 +16,7 @@ function help() {
 EOL;
   $prompt="\033[00m";
   echo $prompt;
-  $getact = readline(' VIP-Tracer >> ');
+  $getact = readline(' VP-Tracer >> ');
   menu();
 }
 ?>
