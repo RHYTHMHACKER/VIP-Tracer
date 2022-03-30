@@ -48,7 +48,7 @@ EOL;
   }
   $prompt="\033[01;37m";
   echo $prompt;
-  $getact = readline(' IP-Tracer >> ');
+  $getact = readline(' VIP-Tracer >> ');
   menu();
 }
 ?>
