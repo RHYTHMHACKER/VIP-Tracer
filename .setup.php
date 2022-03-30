@@ -51,15 +51,15 @@ class set {
       system("mv -v * *.* .*.* /usr/share/VIP-Tracer/");
     }
     
-    // removing VIP-Tracer directory
-    if ($system=="termux") {
-      system("cd .. && rm -rf VIP-Tracer");
-    } elseif ($system=="ubuntu") {
-      system("cd .. && sudo rm -rf VIP-Tracer");
-    } else {
-      system("cd .. && rm -rf VIP-Tracer");
-    }
-  }
+
+
+
+
+
+
+
+
+
   function logo() {
     system("clear");
     echo <<<EOL
