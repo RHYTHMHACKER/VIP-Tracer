@@ -10,6 +10,6 @@ if (file_exists("/usr/bin/apt")) {
     $system="debian";
   }
 } elseif (file_exists("/data/data/com.termux/files/usr/bin/pkg")) {
-  $system="termuxz";
+  $system="termux";
 }
 ?>
