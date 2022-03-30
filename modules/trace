@@ -1,11 +1,11 @@
-# Tool Name :- IP-Tracer-Pro
-# Author :- NSproGAMERSYT 
+# Tool Name :- VIP-Tracer-Pro
+# Author :- RHYTHM HACKER 
 # Date :- 2/2/2022
-# Powered By :- Aex Software's
+# Powered By :- NSproGAMERSYT
 if [ -d /data/data/com.termux/files/usr/share ];then
-  cd /data/data/com.termux/files/usr/share/IP-Tracer
+  cd /data/data/com.termux/files/usr/share/VIP-Tracer
   exec bash trace $@
 elif [ -d /usr/share ];then
-  cd /usr/share/IP-Tracer
+  cd /usr/share/VIP-Tracer
   exec bash trace $@
 fi
