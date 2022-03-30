@@ -1,28 +1,28 @@
-## What is IP-Tracer ?
+## What is VIP-Tracer ?
 
-IP-Tracer Pro is used to track an ip address. IP-Tracer is developed for Termux and Linux based systems By NSproGAMERSYT. you can easily retrieve ip address information using IP-Tracer Pro. IP-Tracer use ip-api to track ip address.Created And Manintaned By NSproGAMERSYT.
+VIP-Tracer Pro is used to track an ip address. VIP-Tracer is developed for Termux and Linux based systems By NSproGAMERSYT. you can easily retrieve ip address information using VIP-Tracer Pro. VIP-Tracer use ip-api to track ip address.Created And Manintaned By NSproGAMERSYT.
 
 <p align="center">
 <img width="47%" src="src/Screenshot_2018-08-06-15-32-17-1.png"/>
 <img width="40%" src="src/Screenshot_2020-05-17-20-52-59-1.png"/>
 </p>
 
-## How to install IP-Tracer ?
+## How to install VIP-Tracer ?
 
 * `apt update`
 
 * `apt install git -y`
 
-* `git clone https://github.com/RHYTHMHACKER/IP-Tracer.git`
+* `git clone https://github.com/RHYTHMHACKER/VIP-Tracer.git`
 
-* `cd IP-Tracer`
+* `cd VIP-Tracer`
 
 * `chmod +x install`
 
 * `sh install` or `./install`
 
 
-## How to use IP-Tracer
+## How to use VIP-Tracer
 
 * `trace -m` to track your own ip address.
 
